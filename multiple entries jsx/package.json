@@ -1,0 +1,19 @@
+{
+  "name": "multiple entries with browserify and jsx",
+  "version": "1.0.0",
+  "description": "multiple entries with browserify and jsx",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emiliano Hernández Guerrero",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "glob": "^5.0.14",
+    "gulp": "^3.9.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}
